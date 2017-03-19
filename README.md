@@ -8,6 +8,6 @@ Streaming Staitstics provides a nice overview of the app performance
 ![alt text](https://github.com/anderson-martin/twitter-extractor/blob/master/screenshots/one.jpg)
 
 Sample output results taken from IntelliJ IDEA console - you can see the tweets, sender and correspondent link 
-![alt text](https://github.com/anderson-martin/twitter-extractor/blob/master/screenshots/three.jpg)
+![alt text](https://github.com/anderson-martin/twitter-extractor/blob/master/screenshots/two.jpg)
 
 I have done this applicaiton thanks to Roberto Marchetto's tutorial.
